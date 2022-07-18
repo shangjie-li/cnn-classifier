@@ -9,8 +9,8 @@ Implementation of CNN-based Classifier in PyTorch for CIFAR10 Image Classificati
    ```
  - Install PyTorch environment with Anaconda
    ```
-   conda create -n machine-learning python=3.6
-   conda activate machine-learning
+   conda create -n cnn-classifier python=3.6
+   conda activate cnn-classifier
    conda install pytorch-gpu=1.3 torchvision=0.4
    pip install matplotlib
    ```
