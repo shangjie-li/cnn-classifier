@@ -1,13 +1,13 @@
 # cnn-classifier
 
-Implementation of CNN-based Classifier in PyTorch for CIFAR10 Image Classification
+CNN-based Classifier for CIFAR10 Image Classification
 
 ## Installation
  - Clone this repository
    ```
    git clone git@github.com:shangjie-li/cnn-classifier.git
    ```
- - Install PyTorch environment with Anaconda
+ - Install environment with Anaconda
    ```
    conda create -n cnn-classifier python=3.6
    conda activate cnn-classifier
